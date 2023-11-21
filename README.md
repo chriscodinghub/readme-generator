@@ -1,6 +1,6 @@
 # readme-generator
 
-## Author of chris_davis_portfolio
+## Author of readme-generator
 Chris Davis, chriscodinghub
 
 ## Welcome to my readme-generator!
