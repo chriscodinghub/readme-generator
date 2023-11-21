@@ -26,7 +26,15 @@ Chris Davis, chriscodinghub
 
 ## Link to demo of app
 
+[Demo Link](https://github.com/chriscodinghub/chris_davis_portfolio/assets/144561170/7b35eb9c-8773-4f99-af9f-95eb8b2722ab)
 
+## Images of generated demo README.md
+
+![demo-readme1](https://github.com/chriscodinghub/chris_davis_portfolio/assets/144561170/5587c7e9-0174-44cd-bcbe-ac9dbbce7a7d)
+
+<br>
+
+![demo-readme2](https://github.com/chriscodinghub/chris_davis_portfolio/assets/144561170/84cf6b4a-fcb5-44fd-952d-af1feb67e89a)
 
 ## Date
 11/20/2023
